@@ -1,0 +1,60 @@
+{
+  "total_class_days": 5,
+  "students": [
+    {
+      "name": "Aman Sharma",
+      "roll_no": "101",
+      "attendance": {
+        "2026-10-12": "Present",
+        "2026-10-13": "Present",
+        "2026-10-14": "Absent",
+        "2026-10-15": "Present",
+        "2026-10-16": "Present"
+      }
+    },
+    {
+      "name": "Priya Singh",
+      "roll_no": "102",
+      "attendance": {
+        "2026-10-12": "Present",
+        "2026-10-13": "Absent",
+        "2026-10-14": "Present",
+        "2026-10-15": "Present",
+        "2026-10-16": "Absent"
+      }
+    },
+    {
+      "name": "Rahul Verma",
+      "roll_no": "103",
+      "attendance": {
+        "2026-10-12": "Present",
+        "2026-10-13": "Present",
+        "2026-10-14": "Present",
+        "2026-10-15": "Present",
+        "2026-10-16": "Present"
+      }
+    },
+    {
+      "name": "Neha Gupta",
+      "roll_no": "104",
+      "attendance": {
+        "2026-10-12": "Absent",
+        "2026-10-13": "Present",
+        "2026-10-14": "Absent",
+        "2026-10-15": "Present",
+        "2026-10-16": "Present"
+      }
+    },
+    {
+      "name": "Rohan Mishra",
+      "roll_no": "105",
+      "attendance": {
+        "2026-10-12": "Present",
+        "2026-10-13": "Absent",
+        "2026-10-14": "Present",
+        "2026-10-15": "Absent",
+        "2026-10-16": "Present"
+      }
+    }
+  ]
+}
